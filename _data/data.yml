@@ -7,33 +7,24 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Jośe Alberto Negrete González # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: janegrete15@gmail.com
+  phone: 3121514934
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
-  bitbucket:
-  twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  linkedin: José Alberto Negrete González
+  github: jnegrete15
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -42,75 +33,60 @@ sidebar:
 
     - item: Team Work
       link: # dejar en blanco
-
-    - item: Time Management
+    
+    - item: Critical thinking
       link: # dejar en blanco
+
+    - item: Empathy
+      link: # dejar en blanco
+    
+    - item: Patient
+      link: # dejar en blanco
+
+
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I have always been interested in how computers work, to create solutions to help people.  
+    I am an autodidact programmer; I like to learn new things. I love nature and music. 
+    I am interested in jobs or positions that always help me to learn new things, challenges 
+    that make me think out of the box. I am passionate about music, outdoor activities with friends.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: BS in Software Engineering
+    university: University of Colima
+    time: 2017 August - 2021 August
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+ 
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Mobile Developer
+    time: 2020 March - 2021 January
+    company: University of Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Mobile Android application to calculate, manage and control the caloric 
+      requirement that a person needs. I was involved in backend development 
+      using kotlin lenguage and quickly database implementation with Firebase.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Frontend Web Developer
+    time: 2019 November - December
+    company: University of Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Web development to analyze and calculate the markov chains. I was responsible
+      for logic and math operationsma using JavaScript.
+
+  - role: Backend Web Developer
+    time: 2019 May - 2019 June
+    company: University of Colima
+    details: |
+      Web system to control and manage payments and debts. I was in charge of
+      backend development using PHP. It was a new language for me; however, the
+      project was developed successfully.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -122,23 +98,44 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: HTML
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: CSS
+      level: 60%
 
-    - name: C/C++
+    - name: Ruby
+      level: 60%
+
+    - name: JavaScrip
+      level: 60%
+
+    - name: Kotlin
+      level: 60%
+
+    - name: MySQL
+      level: 60%
+
+    - name: Rails
       level: 40%
+
+    - name: PHP
+      level: 40%
+
+    - name: PostgreSQL
+      level: 40%
+
+    - name: Firebase
+      level: 40%
+
+    - name: NodeJS
+      level: 40%
+
+    - name: Swift
+      level: 20% 
+
+    - name: React Native
+      level: 20% 
 
 # NO MODIFICAR
 footer: >
